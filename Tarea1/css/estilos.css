@@ -1,0 +1,22 @@
+h1{
+    background-color: red;/*modifica el color de fondo del titulo*/
+    color: white;/*modifica el color del texto del titulo*/
+    font-size: 35px;/*modifica el tamaño de la letra del titulo*/
+}
+h2{
+    background-color: red;/*modifica el color de fondo del subtitulo*/
+    color: white;/*modifica el color del texto del subtitulo*/
+    font-size: 20px;/*modifica el tamaño de la letra del subtitulo*/
+}
+p{
+    background-color: green;/*modifica el color de fondo del parrafo*/
+    color: white;/*modifica el color del texto del subtitulo*/
+    font-size: 20px;/*modifica el tamaño de la letra del parrafo*/
+}
+a:hover{
+    color:green;/*modifica el color del link cuando se pasa el cursor sobre el mismo*/
+}
+a{
+    text-decoration-line: none;/*dehabilita el subrayado del link*/
+    color: black;/*modifica el color del texto del link*/
+}
